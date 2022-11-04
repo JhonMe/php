@@ -29,6 +29,9 @@
         .card{
             display: flexbox;
         }
+        img{
+            height: 140px;
+        }
     </style>
 </head>
 
@@ -67,7 +70,7 @@
         </ul>
         
         <div class="card" style="width: 18rem;">
-            <img src="/img/img2.jpg" class="card-img-top" alt="...">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSapiYmRjOW3T-S8CUMIMjT6A0jlGViKWuAA&usqp=CAU" alt="">
             <div class="card-body">
                 <h5 class="card-title">
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
@@ -84,7 +87,7 @@
         </div>
         
         <div class="card" style="width: 18rem;">
-            <img src="/img/img2.jpg" class="card-img-top" alt="...">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Huaguruncho.JPG" alt="">
             <div class="card-body">
                 <h5 class="card-title">
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-snow2" viewBox="0 0 16 16">
