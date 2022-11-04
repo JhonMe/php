@@ -30,7 +30,7 @@
             display: flexbox;
         }
         img{
-            height: 140px;
+            height: 150px;
         }
     </style>
 </head>
@@ -68,7 +68,7 @@
                 <a class="nav-link disabled">quedarse aqui</a>
             </li>
         </ul>
-        
+     <p style display="flex">  
         <div class="card" style="width: 18rem;">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSapiYmRjOW3T-S8CUMIMjT6A0jlGViKWuAA&usqp=CAU" alt="">
             <div class="card-body">
@@ -85,7 +85,8 @@
                     </svg>visitar</a>
             </div>
         </div>
-        
+      </p>   
+       <p style display="flex">
         <div class="card" style="width: 18rem;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Huaguruncho.JPG" alt="">
             <div class="card-body">
@@ -101,7 +102,7 @@
                     </svg>visitar</a>
             </div>
         </div>
-       
+        </p> 
     </center>
 </body>
 
