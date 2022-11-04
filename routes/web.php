@@ -23,3 +23,6 @@ Route::get('/historia', function () {
 Route::get('/huallay', function () {
     return view('huallay');
 });
+Route::get('/nevado', function () {
+    return view('nevado');
+});
