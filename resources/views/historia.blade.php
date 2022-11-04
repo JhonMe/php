@@ -79,7 +79,7 @@
                 </h5>
                 <p class="card-text"> El Bosque de piedras de Huayllay está ubicado en el distrito de Huayllay, provincia y departamento de Pasco, Perú tiene una extensión de 6000 ha.
                     ​ Está protegido desde 1974 por el establecimiento del Santuario nacional de Huayllay. Constituye una maravilla natural andina, a 4,310 metros sobre el nivel del mar.</p>
-                <a href="views/huallay.blade.php" class="btn btn-primary">
+                <a href="http://127.0.0.1:8000/huallay#" class="btn btn-primary">
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
                         <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z" />
                     </svg>visitar</a>
@@ -96,7 +96,7 @@
                     </svg>EL NEVADO
                 </h5>
                 <p class="card-text">El distrito de Huachón es uno de los trece que conforman la provincia peruana de Pasco situada en la parte suroccidental del departamento homónimo. 3400 m s. n. m. 5511 hab.</p>
-                <a href="#" class="btn btn-primary">
+                <a href="http://127.0.0.1:8000/nevado" class="btn btn-primary">
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
                         <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z" />
                     </svg>visitar</a>
